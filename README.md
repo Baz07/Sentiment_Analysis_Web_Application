@@ -1,6 +1,6 @@
 # Sentiment_Analysis_Web_Application
 
-### STACK:
+#### STACK:
 •	Backend: Python, Natural Language Processing (NLP) Techniques
 
 •	Frontend: React
